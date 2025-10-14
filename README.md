@@ -9,5 +9,5 @@ Detailed description.
 ![RunningCalculator](https://github.com/ShivanSharma24/Portfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows](https://github.com/ShivanSharma24/Portfolio/blob/main/src/Calc/windows-amd64.zip)
-* [MacOS]()
+* [MacOS](https://github.com/ShivanSharma24/Portfolio/blob/main/src/Calc/macos-x86_64.zip)
 * [SourceCode]()
