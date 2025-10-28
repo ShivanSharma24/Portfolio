@@ -6,7 +6,7 @@
 
 This is a program of a calculator made with Processing (a programming environment based on Java). It makes a graphical interface with buttons for numbers (0–9), math operations (like +, -, ×, ÷), and special functions (like square, π, and sign change).
 
-![UML](https://github.com/ShivanSharma24/Portfolio/blob/main/images/calculator.jpg)
+![UML]([https://github.com/ShivanSharma24/Portfolio/blob/main/images/calculator.jpg](https://github.com/ShivanSharma24/Portfolio/blob/main/images/calc.jpg))
 
 ![RunningCalculator](https://github.com/ShivanSharma24/Portfolio/blob/main/images/Calc.png?raw=true)
 
